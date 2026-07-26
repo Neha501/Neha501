@@ -1,0 +1,44 @@
+name: Update profile assets
+
+on:
+  schedule:
+    # Once a day, 03:17 UTC (off the hour to avoid GitHub's scheduled-job pile-up)
+    - cron: "17 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate analytics panel
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd scripts
+          python3 generate_analytics.py --username Neha501 --out ../assets/generated/analytics.svg
+
+      - name: Generate contribution runner
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd scripts
+          python3 generate_contribution.py --username Neha501 --out ../assets/generated/contribution-animation.svg
+
+      - name: Commit updated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/generated/analytics.svg assets/generated/contribution-animation.svg
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: refresh profile analytics assets"
+          git push

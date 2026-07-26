@@ -6,9 +6,9 @@
 
 ## About Me
 
-Building small, focused tools — a Java desktop app for managing color palettes, a couple of Power BI and Excel dashboards, and a Python machine-learning model for predicting student outcomes.
-Comfortable moving between GUI development, data analysis, and applied ML.
-Currently exploring full-stack app development and generative AI.
+Software developer and data analyst working across GUI applications, analytics dashboards, and machine learning.
+Projects span a Java desktop app backed by MySQL, Power BI and Excel dashboards, and a Python ML model trained on real student data.
+Currently deepening expertise in full-stack development and generative AI.
 
 <br><br>
 
@@ -75,8 +75,6 @@ Excel/Power Query BI dashboard on retail transaction data — category, regional
 </tr>
 </table>
 
-> **Note:** `AI_Study_Assistance` (a full-stack app with a live deployed demo) was considered for this section but held back — its README references another GitHub user's clone URL, so authorship couldn't be confidently verified from public data alone. See `docs/IMPLEMENTATION_NOTES.md` for details; it can be added here once confirmed.
-
 <br><br>
 
 ## GitHub Activity
@@ -94,15 +92,6 @@ Excel/Power Query BI dashboard on retail transaction data — category, regional
 <div align="center">
   <img src="assets/generated/contribution-animation.svg" alt="Contribution Runner: a small character moves across recent weekly contribution intensity" width="100%" />
 </div>
-
-<br><br>
-
-## Coding Profiles
-
-<!-- LeetCode activity is confirmed (see docs/IMPLEMENTATION_NOTES.md), but no public LeetCode profile URL exists on this account yet. Add it below once available: -->
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-83B547?style=flat-square&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL_HERE) -->
-
-*LeetCode problem-solving activity is confirmed through this account's LeetHub-synced repository. A public LeetCode profile link will be added here once provided — see `docs/IMPLEMENTATION_NOTES.md` for what's needed.*
 
 <br><br>
 

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 700 170" xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Neha — Software Developer and Data Analyst">
+  <defs>
+    <style>
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="700" height="170" fill="#FFFFFF"/>
+
+  <text x="40" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="46" font-weight="700" fill="#315D34" letter-spacing="1">NEHA</text>
+
+  <text x="42" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
+        font-size="14" fill="#657267">Software Development &#183; Data Analytics &#183; Machine Learning</text>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#83B547">
+    <text x="42" y="132">dev.build( fullStack | analytics | ml )</text>
+    <rect class="cursor" x="247" y="121" width="7" height="14" fill="#5F963B"/>
+  </g>
+
+  <rect x="0" y="0" width="6" height="170" fill="#83B547"/>
+</svg>
