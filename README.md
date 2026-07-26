@@ -1,94 +1,121 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=EC4899&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=650&height=80&lines=interface+Neha+extends+any+%7B+iAm%3A+SoftwareEngineer%3B+%7D" alt="Typing SVG" />
-
-<br>
-
-### 👋 Hi, I'm Neha
-
-Based in India, I build GUI-based Java applications and Python data/ML projects — from desktop tools to analytics dashboards.
-I love Data Structures & Algorithms, Machine Learning, and turning data into clean insights.
-
-**Let's build something amazing together 🚀**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Neha501&color=ec4899&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Neha501?color=ec4899&style=flat-square&label=Followers)
-
+  <img src="assets/hero.svg" alt="Neha — Software Development, Data Analytics, Machine Learning" width="100%" />
 </div>
 
-<br>
+<br><br>
 
-## 🛠️ Tech Stack
+## About Me
 
-<div align="center">
+Building small, focused tools — a Java desktop app for managing color palettes, a couple of Power BI and Excel dashboards, and a Python machine-learning model for predicting student outcomes.
+Comfortable moving between GUI development, data analysis, and applied ML.
+Currently exploring full-stack app development and generative AI.
 
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=EC4899&labelColor=FCE4EC)
-![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=EC4899&labelColor=FCE4EC)
-![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=EC4899&labelColor=FCE4EC)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=EC4899&labelColor=FCE4EC)
-![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=EC4899&labelColor=FCE4EC)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFFFFF?style=for-the-badge&logo=tensorflow&logoColor=EC4899&labelColor=FCE4EC)
+<br><br>
 
-</div>
+## Tech Stack
 
-<br>
+<table>
+<tr><td valign="top" width="140"><b>Languages</b></td><td>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js" alt="Java, Python, C++, JavaScript" />
+</td></tr>
+<tr><td valign="top"><b>Web &amp; Full-Stack</b></td><td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="React, Node.js, Express, MongoDB, Tailwind" />
+</td></tr>
+<tr><td valign="top"><b>Data &amp; Analytics</b></td><td>
 
-## 💼 Projects
+![Power BI](https://img.shields.io/badge/Power_BI-83B547?style=flat-square&logo=powerbi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-83B547?style=flat-square&logo=microsoftexcel&logoColor=white) <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+
+</td></tr>
+<tr><td valign="top"><b>Machine Learning</b></td><td>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-83B547?style=flat-square&logo=scikitlearn&logoColor=white) <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
+
+</td></tr>
+<tr><td valign="top"><b>Databases</b></td><td>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
+</td></tr>
+</table>
+
+<br><br>
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [HueHaven](https://github.com/Neha501/HueHaven)
-Java Swing/AWT color palette manager with real-time HEX/RGB rendering.
-
-`Java` `Swing` `OOP` `Event-Driven`
+**[HueHaven](https://github.com/Neha501/HueHaven)**
+Java Swing/AWT color-palette manager backed by MySQL, built around Stack/ArrayList/Queue data structures.
+`Java` · `Swing` · `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [Student Performance Prediction](https://github.com/Neha501)
-ML model (Linear Regression, Random Forest) predicting at-risk students from 1000+ records.
+**[Student Academic Performance Prediction](https://github.com/Neha501/Student-Academic-Performance-Prediction)**
+ML model identifying at-risk students from 1,000+ records using Scikit-learn.
+`Python` · `Pandas` · `scikit-learn`
 
-`Python` `Pandas` `Scikit-learn` `EDA`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[E-Commerce Customer Behavior Analysis](https://github.com/Neha501/E-Commerce-Customer-Behavior-Purchase-Analysis)**
+Power BI dashboard covering engagement, conversion, delivery experience, and repeat-purchase behavior across 1,145 users.
+`Power BI` · `DAX`
+
+</td>
+<td width="50%" valign="top">
+
+**[Retail Sales Analytics Dashboard](https://github.com/Neha501/Retail-Sales-Analytics-Dashboard)**
+Excel/Power Query BI dashboard on retail transaction data — category, regional, and time-based sales analysis.
+`Excel` · `Power Query`
 
 </td>
 </tr>
 </table>
 
-<br>
+> **Note:** `AI_Study_Assistance` (a full-stack app with a live deployed demo) was considered for this section but held back — its README references another GitHub user's clone URL, so authorship couldn't be confidently verified from public data alone. See `docs/IMPLEMENTATION_NOTES.md` for details; it can be added here once confirmed.
 
-## 📊 GitHub Stats
+<br><br>
+
+## GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neha501&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=EC4899&icon_color=EC4899&text_color=333333" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neha501&theme=default&hide_border=true&background=FFFFFF&ring=EC4899&fire=EC4899&currStreakLabel=EC4899" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neha501&layout=compact&hide_border=true&theme=default&bg_color=FFFFFF&title_color=EC4899&text_color=333333" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha501&theme=minimal&bg_color=FFFFFF&color=EC4899&line=EC4899&point=333333&hide_border=true" width="49%" />
-
+  <img src="assets/generated/analytics.svg" alt="GitHub analytics panel: contribution landscape, activity radar, language mix, and verified stats" width="100%" />
 </div>
 
-<br>
+<sub>Regenerated daily from live GitHub data — see <code>scripts/generate_analytics.py</code>.</sub>
 
-## 📅 Contribution Calendar
+<br><br>
+
+## Contribution Runner
 
 <div align="center">
-
-![snake](https://raw.githubusercontent.com/Neha501/Neha501/output/github-contribution-grid-snake.svg)
-
+  <img src="assets/generated/contribution-animation.svg" alt="Contribution Runner: a small character moves across recent weekly contribution intensity" width="100%" />
 </div>
 
-<br>
+<br><br>
+
+## Coding Profiles
+
+<!-- LeetCode activity is confirmed (see docs/IMPLEMENTATION_NOTES.md), but no public LeetCode profile URL exists on this account yet. Add it below once available: -->
+<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-83B547?style=flat-square&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL_HERE) -->
+
+*LeetCode problem-solving activity is confirmed through this account's LeetHub-synced repository. A public LeetCode profile link will be added here once provided — see `docs/IMPLEMENTATION_NOTES.md` for what's needed.*
+
+<br><br>
+
+## Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Neha501-83B547?style=flat-square&logo=github&logoColor=white)](https://github.com/Neha501)
+
+<!-- LinkedIn and email are intentionally omitted here — see docs/IMPLEMENTATION_NOTES.md. Add once confirmed: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-83B547?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
+<!-- [![Email](https://img.shields.io/badge/Email-83B547?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
+
+<br><br>
 
 <div align="center">
-
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=EC4899&labelColor=FCE4EC)](https://www.linkedin.com/in/neha-shit)
-[![Gmail](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EC4899&labelColor=FCE4EC)](mailto:nehashit8@gmail.com)
-
+  <img src="assets/footer.svg" alt="footer" width="100%" />
 </div>
