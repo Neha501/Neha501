@@ -5,8 +5,6 @@ on:
     # Once a day, 03:17 UTC (off the hour to avoid GitHub's scheduled-job pile-up)
     - cron: "17 3 * * *"
   workflow_dispatch: {}
-  push:
-    branches: [main]
 
 permissions:
   contents: write
