@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
   <img src="assets/hero.svg" alt="Neha — Software Development, Data Analytics, Machine Learning" width="100%" />
 </div>
 <br/>
@@ -111,16 +111,32 @@ I am a results-driven **Data Analyst**, **Full Stack Developer**, and **Machine 
 
 <br><br>
 
-## Connect With Me
+## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Neha501-83B547?style=flat-square&logo=github&logoColor=white)](https://github.com/Neha501)
+<div align="center">
 
-<!-- LinkedIn and email are intentionally omitted here — see docs/IMPLEMENTATION_NOTES.md. Add once confirmed: -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-83B547?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) -->
-<!-- [![Email](https://img.shields.io/badge/Email-83B547?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Neha501)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-shit)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nehashit8@gmail.com)
+
+</div>
 
 <br><br>
 
+---
+
 <div align="center">
-  <img src="assets/footer.svg" alt="footer" width="100%" />
+
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Neha501&color=2EA043&style=flat-square&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<a href="#top">Back to Top ⬆️</a>
+
 </div>
