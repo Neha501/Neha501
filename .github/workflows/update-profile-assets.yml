@@ -35,6 +35,13 @@ jobs:
           cd scripts
           python3 generate_contribution.py --username Neha501 --out ../assets/generated/contribution-animation.svg
 
+      - name: Generate analytics dashboard
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd scripts
+          python3 generate_dashboard.py --username Neha501 --outdir ../assets/generated
+
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -48,6 +55,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/generated/analytics.svg assets/generated/contribution-animation.svg assets/generated/github-contribution-grid-snake.svg assets/generated/github-contribution-grid-snake-dark.svg
+          git add assets/generated/analytics.svg \
+                  assets/generated/contribution-animation.svg \
+                  assets/generated/github-contribution-grid-snake.svg \
+                  assets/generated/github-contribution-grid-snake-dark.svg \
+                  assets/generated/contribution-trend.svg \
+                  assets/generated/weekly-pattern.svg \
+                  assets/generated/monthly-contributions.svg \
+                  assets/generated/repository-activity.svg \
+                  assets/generated/language-distribution.svg \
+                  assets/generated/repository-growth.svg \
+                  assets/generated/commit-heatmap.svg
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "chore: refresh profile assets and snake"
           git push

@@ -111,6 +111,45 @@ I am a results-driven **Data Analyst**, **Full Stack Developer**, and **Machine 
 
 <br><br>
 
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img src="assets/generated/contribution-trend.svg" width="90%" alt="Contribution Trend – last 30 days"/>
+</div>
+
+<br>
+
+<div align="center">
+<table border="0" width="90%" cellpadding="8">
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/generated/weekly-pattern.svg" width="100%" alt="Weekly Contribution Pattern"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/generated/monthly-contributions.svg" width="100%" alt="Monthly Contribution Overview"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/generated/language-distribution.svg" width="100%" alt="Language Distribution"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/generated/repository-activity.svg" width="100%" alt="Repository Activity"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/generated/repository-growth.svg" width="100%" alt="Repository Growth"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/generated/commit-heatmap.svg" width="100%" alt="Commit Heat Calendar"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br><br>
+
 ## 🤝 Connect With Me
 
 <div align="center">
