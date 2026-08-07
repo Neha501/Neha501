@@ -1,0 +1,30 @@
+<svg width="145" height="42" viewBox="0 0 145 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Soft Button Drop Shadow -->
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <style>
+      .btn {
+        transition: transform 0.25s cubic-bezier(0.25, 0.8, 0.25, 1), filter 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+        transform-origin: center;
+      }
+      .btn:hover {
+        transform: translateY(-4px);
+        filter: url(#shadow);
+      }
+    </style>
+  </defs>
+  <g class="btn">
+    <!-- Button Base Card (LinkedIn Blue) -->
+    <rect x="9" y="7" width="127" height="28" rx="6" fill="#0077B5" stroke="#006297" stroke-width="1.2"/>
+    
+    <!-- Logo + Text Group centered -->
+    <g transform="translate(35.5, 14)">
+      <!-- LinkedIn Icon -->
+      <path d="M12 0H2C.9 0 0 .9 0 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V2c0-1.1-.9-2-2-2zM4.2 11.2H2.4V5.6h1.8v5.6zM3.3 4.8c-.6 0-1.1-.5-1.1-1.1s.5-1.1 1.1-1.1 1.1.5 1.1 1.1-.5 1.1-1.1 1.1zm7.9 6.4h-1.8V8.4c0-.7 0-1.5-.9-1.5s-1.1.7-1.1 1.5v2.8H5.6V5.6h1.7v.8c.2-.4.8-.9 1.6-.9 1.7 0 2 1.1 2 2.6v3.1z" fill="#ffffff"/>
+      <!-- Label -->
+      <text x="22" y="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="700" fill="#ffffff">LinkedIn</text>
+    </g>
+  </g>
+</svg>

@@ -1,96 +1,112 @@
 <div align="center">
   <img src="assets/hero.svg" alt="Neha — Software Development, Data Analytics, Machine Learning" width="100%" />
 </div>
-
-<br><br>
-
-## About Me
-
-Software developer and data analyst working across GUI applications, analytics dashboards, and machine learning.
-Projects span a Java desktop app backed by MySQL, Power BI and Excel dashboards, and a Python ML model trained on real student data.
-Currently deepening expertise in full-stack development and generative AI.
-
-<br><br>
-
-## Tech Stack
-
-<table>
-<tr><td valign="top" width="140"><b>Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js" alt="Java, Python, C++, JavaScript" />
-</td></tr>
-<tr><td valign="top"><b>Web &amp; Full-Stack</b></td><td>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="React, Node.js, Express, MongoDB, Tailwind" />
-</td></tr>
-<tr><td valign="top"><b>Data &amp; Analytics</b></td><td>
-
-![Power BI](https://img.shields.io/badge/Power_BI-83B547?style=flat-square&logo=powerbi&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-83B547?style=flat-square&logo=microsoftexcel&logoColor=white) <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-
-</td></tr>
-<tr><td valign="top"><b>Machine Learning</b></td><td>
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-83B547?style=flat-square&logo=scikitlearn&logoColor=white) <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-
-</td></tr>
-<tr><td valign="top"><b>Databases</b></td><td>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
-</td></tr>
-</table>
-
-<br><br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[HueHaven](https://github.com/Neha501/HueHaven)**
-Java Swing/AWT color-palette manager backed by MySQL, built around Stack/ArrayList/Queue data structures.
-`Java` · `Swing` · `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-**[Student Academic Performance Prediction](https://github.com/Neha501/Student-Academic-Performance-Prediction)**
-ML model identifying at-risk students from 1,000+ records using Scikit-learn.
-`Python` · `Pandas` · `scikit-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[E-Commerce Customer Behavior Analysis](https://github.com/Neha501/E-Commerce-Customer-Behavior-Purchase-Analysis)**
-Power BI dashboard covering engagement, conversion, delivery experience, and repeat-purchase behavior across 1,145 users.
-`Power BI` · `DAX`
-
-</td>
-<td width="50%" valign="top">
-
-**[Retail Sales Analytics Dashboard](https://github.com/Neha501/Retail-Sales-Analytics-Dashboard)**
-Excel/Power Query BI dashboard on retail transaction data — category, regional, and time-based sales analysis.
-`Excel` · `Power Query`
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-## GitHub Activity
+<br/>
 
 <div align="center">
-  <img src="assets/generated/analytics.svg" alt="GitHub analytics panel: contribution landscape, activity radar, language mix, and verified stats" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Data+Analyst;Full+Stack+Developer;Machine+Learning+Enthusiast&typeSpeed=60&deleteSpeed=40)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Neha501"><img src="assets/btn_portfolio.svg" alt="Portfolio" width="145" height="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/neha-shit"><img src="assets/btn_linkedin.svg" alt="LinkedIn" width="145" height="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nehashit8@gmail.com"><img src="assets/btn_email.svg" alt="Email" width="145" height="42"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="assets/btn_resume.svg" alt="Resume" width="145" height="42"/></a>
+</p>
+
 </div>
 
-<sub>Regenerated daily from live GitHub data — see <code>scripts/generate_analytics.py</code>.</sub>
+---
+
+<p align="center">
+  <i>"Building at the intersection of Data Analytics, Full-Stack Development, and AI — transforming ideas into clean, scalable, and impactful solutions."</i>
+</p>
+
+---
+
+<br/>
+
+## 👤 About Me
+
+I am a results-driven **Data Analyst**, **Full Stack Developer**, and **Machine Learning Enthusiast** with a strong foundation as a **Java Developer** and a passion for solving complex technical problems. I bridge the gap between backend engineering, interactive GUI tool building, and data-driven insights, always striving to design clean, optimized, and scalable applications.
+
+- 🎯 **Current Focus:** Deepening expertise in full-stack web development, algorithmic data structures (Java), and machine learning pipelines.
+- 🌱 **Learning:** Advanced Generative AI, cloud deployment, and system design patterns.
+- 💬 **Ask me about:** Java, Python, C++, MySQL, Pandas, Power BI, Excel, Swing GUI.
+- ⚡ **Fun Fact:** I believe every complex problem has a clean, simple, and elegant solution hiding within it.
+
+<br/>
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css" alt="Languages" />
+</a>
+
+### Frameworks & Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" alt="Frameworks &amp; Libraries" />
+</a>
+
+### Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" alt="Databases &amp; Cloud" />
+</a>
+
+### DevOps & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" alt="DevOps &amp; Tools" />
+</a>
+
+</div>
+
+<br/>
 
 <br><br>
 
-## Contribution Runner
+## 🚀 Featured Projects
+
+| 🤖 AI Study Platform | 🎨 HueHaven |
+| :--- | :--- |
+| **Full Stack AI App**<br/>An AI-powered study platform featuring smart notes, flashcards, quizzes, and personalized learning dashboards.<br/>*An intelligent learning ecosystem powered by modern AI workflows.* | **Java GUI Application**<br/>A color palette management application implementing Stack, Queue, and ArrayList with MySQL backend storage.<br/>*A desktop application combining clean UI with strong data structures.* |
+| [View Repository](https://github.com/Neha501/AI_Study_Assistance) | [View Repository](https://github.com/Neha501/HueHaven) |
+
+| 📊 Zomato Analytics | 🎓 Student ML Model |
+| :--- | :--- |
+| **Data Analytics**<br/>Interactive Power BI and Excel dashboards analyzing restaurant ratings, cuisines, and pricing insights.<br/>*Transforming raw restaurant transaction data into meaningful insights.* | **Machine Learning**<br/>A classification model predicting academic outcomes using Python, Scikit-learn, and Pandas preprocessing.<br/>*Applying machine learning to identify student academic success factors.* |
+| [View Repository](https://github.com/Neha501/Zomato-Analytics-Dashboard) | [View Repository](https://github.com/Neha501/Student-Academic-Performance-Prediction) |
+
+<br><br>
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="assets/generated/contribution-animation.svg" alt="Contribution Runner: a small character moves across recent weekly contribution intensity" width="100%" />
+
+<img src="https://streak-stats.demolab.com/?user=Neha501&theme=dark&background=161B22&ring=2EA043&fire=7EE787&currStreakNum=7EE787&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&stroke=30363D" alt="GitHub Streak" width="100%" />
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-phi-sooty-81.vercel.app/api?username=Neha501&show_icons=true&theme=dark&bg_color=161B22&title_color=7EE787&icon_color=3FB950&text_color=C9D1D9&border_color=30363D&hide_rank=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-phi-sooty-81.vercel.app/api/top-langs/?username=Neha501&layout=compact&theme=dark&bg_color=161B22&title_color=7EE787&icon_color=3FB950&text_color=C9D1D9&border_color=30363D&langs_count=5" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br><br>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="assets/generated/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 <br><br>

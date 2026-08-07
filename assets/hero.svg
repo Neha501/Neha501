@@ -1,24 +1,100 @@
-<svg viewBox="0 0 700 170" xmlns="http://www.w3.org/2000/svg" role="img"
-     aria-label="Neha — Software Developer and Data Analyst">
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neha — Data Analyst • Full Stack Developer • AI Enthusiast">
   <defs>
+    <!-- Card Background Gradient -->
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06090e" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Neon Text Gradient -->
+    <linearGradient id="neon-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2EA043" />
+      <stop offset="50%" stop-color="#3FB950" />
+      <stop offset="100%" stop-color="#7EE787" />
+    </linearGradient>
+
+    <!-- Layered Soft Radial Gradients for Background Blobs -->
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2EA043" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7EE787" stop-opacity="0.14" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Subtle Tech Grid Pattern -->
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M 25 0 L 0 0 0 25" fill="none" stroke="#30363D" stroke-width="0.4" opacity="0.25"/>
+    </pattern>
+
+    <!-- Premium Static Soft Text Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#7EE787" flood-opacity="0.45"/>
+    </filter>
+
+    <!-- Heavy Gaussian Blur for Blobs -->
+    <filter id="blob-blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="45"/>
+    </filter>
+
+    <!-- CSS styles for extremely subtle organic floating motion -->
     <style>
-      .cursor { animation: blink 1.1s steps(1) infinite; }
-      @keyframes blink { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+      @keyframes float1 {
+        0%, 100% { transform: translate(0, 0); }
+        50% { transform: translate(-12px, 8px); }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translate(0, 0); }
+        50% { transform: translate(8px, -12px); }
+      }
+      .float-circle-1 {
+        animation: float1 14s ease-in-out infinite;
+      }
+      .float-circle-2 {
+        animation: float2 18s ease-in-out infinite;
+      }
     </style>
   </defs>
 
-  <rect x="0" y="0" width="700" height="170" fill="#FFFFFF"/>
+  <!-- Base Card Background -->
+  <rect width="800" height="250" rx="12" fill="url(#bg-gradient)" />
+  <!-- Grid overlay -->
+  <rect width="800" height="250" rx="12" fill="url(#grid)" stroke="#30363D" stroke-width="1.5" />
 
-  <text x="40" y="78" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="46" font-weight="700" fill="#315D34" letter-spacing="1">NEHA</text>
+  <!-- Ambient Background Blobs (large, soft, mostly on the right side) -->
+  <ellipse cx="650" cy="110" rx="240" ry="170" fill="url(#blob1)" filter="url(#blob-blur)" class="float-circle-1"/>
+  <ellipse cx="580" cy="130" rx="190" ry="140" fill="url(#blob2)" filter="url(#blob-blur)" class="float-circle-2"/>
 
-  <text x="42" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif"
-        font-size="14" fill="#657267">Software Development &#183; Data Analytics &#183; Machine Learning</text>
+  <!-- Left Green Indicator bar -->
+  <rect x="0" y="0" width="6" height="250" fill="#2EA043" rx="3"/>
 
-  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#83B547">
-    <text x="42" y="132">dev.build( fullStack | analytics | ml )</text>
-    <rect class="cursor" x="247" y="121" width="7" height="14" fill="#5F963B"/>
+  <!-- Core Content Group -->
+  <g transform="translate(42, 90)">
+    <!-- Glowing Static Title (No pulsation) -->
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="900" fill="url(#neon-gradient)" letter-spacing="2" filter="url(#glow)">NEHA</text>
+    
+    <!-- One-line Subtitle -->
+    <text x="2" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#C9D1D9" opacity="0.95">Data Analyst • Full Stack Developer • AI Enthusiast</text>
+
+    <!-- Technology Pills -->
+    <g transform="translate(2, 75)">
+      <!-- Pill 1 -->
+      <rect x="0" y="0" width="105" height="26" rx="13" fill="#161B22" stroke="#2EA043" stroke-width="1.2"/>
+      <text x="52.5" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#F0F6FC" text-anchor="middle">Full-Stack Dev</text>
+
+      <!-- Pill 2 -->
+      <rect x="117" y="0" width="110" height="26" rx="13" fill="#161B22" stroke="#3FB950" stroke-width="1.2"/>
+      <text x="172" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#F0F6FC" text-anchor="middle">Data Analytics</text>
+
+      <!-- Pill 3 -->
+      <rect x="239" y="0" width="125" height="26" rx="13" fill="#161B22" stroke="#7EE787" stroke-width="1.2"/>
+      <text x="301.5" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#F0F6FC" text-anchor="middle">Machine Learning</text>
+
+      <!-- Pill 4 -->
+      <rect x="376" y="0" width="120" height="26" rx="13" fill="#161B22" stroke="#2EA043" stroke-width="1.2"/>
+      <text x="436" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#F0F6FC" text-anchor="middle">GUI Applications</text>
+    </g>
   </g>
-
-  <rect x="0" y="0" width="6" height="170" fill="#83B547"/>
 </svg>

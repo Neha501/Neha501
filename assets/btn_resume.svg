@@ -1,0 +1,30 @@
+<svg width="145" height="42" viewBox="0 0 145 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Soft Button Drop Shadow -->
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+    <style>
+      .btn {
+        transition: transform 0.25s cubic-bezier(0.25, 0.8, 0.25, 1), filter 0.25s cubic-bezier(0.25, 0.8, 0.25, 1);
+        transform-origin: center;
+      }
+      .btn:hover {
+        transform: translateY(-4px);
+        filter: url(#shadow);
+      }
+    </style>
+  </defs>
+  <g class="btn">
+    <!-- Button Base Card (GitHub Green) -->
+    <rect x="9" y="7" width="127" height="28" rx="6" fill="#2EA043" stroke="#237F33" stroke-width="1.2"/>
+    
+    <!-- Logo + Text Group centered -->
+    <g transform="translate(37.5, 14)">
+      <!-- Resume/Document Icon -->
+      <path d="M10 0H2C.9 0 0 .9 0 2v10c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V4L10 0zM9 5V1.5L12.5 5H9zM2 12V2h6v4h4v6H2z" fill="#ffffff"/>
+      <!-- Label -->
+      <text x="22" y="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="700" fill="#ffffff">Resume</text>
+    </g>
+  </g>
+</svg>
