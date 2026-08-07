@@ -42,8 +42,7 @@ jobs:
           outputs: |
             assets/generated/github-contribution-grid-snake.svg
             assets/generated/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit updated assets
         run: |
