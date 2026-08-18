@@ -29,47 +29,47 @@
   <text x="43" y="96.7" font-size="9" fill="#8B949E" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0</text>
   <line x1="50" y1="69.0" x2="832" y2="69.0" stroke="#30363D" stroke-opacity="0.4" stroke-dasharray="4,4"/>
   <text x="43" y="73.0" font-size="9" fill="#8B949E" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0</text>
-  <rect x="75.1" y="100.6" width="61.4" height="63.4" rx="5" fill="#58A6FF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="63.4" dur="0.75s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="100.6" dur="0.75s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="75.1" y="69.0" width="61.4" height="95.0" rx="5" fill="#58A6FF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="95.0" dur="0.75s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="69.0" dur="0.75s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="105.9" y="95.6" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.3</text>
+  <text x="105.9" y="64.0" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.4</text>
   <text x="105.9" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Mon</text>
-  <rect x="186.8" y="142.5" width="61.4" height="21.5" rx="5" fill="#58A6FF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="21.5" dur="0.75s" begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="142.5" dur="0.75s" begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="186.8" y="138.1" width="61.4" height="25.9" rx="5" fill="#58A6FF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="25.9" dur="0.75s" begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="138.1" dur="0.75s" begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="217.6" y="137.5" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.1</text>
+  <text x="217.6" y="133.1" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.1</text>
   <text x="217.6" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Tue</text>
-  <rect x="298.6" y="124.5" width="61.4" height="39.5" rx="5" fill="#58A6FF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="39.5" dur="0.75s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="124.5" dur="0.75s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="298.6" y="133.2" width="61.4" height="30.8" rx="5" fill="#58A6FF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="30.8" dur="0.75s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="133.2" dur="0.75s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="329.3" y="119.5" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.2</text>
+  <text x="329.3" y="128.2" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.1</text>
   <text x="329.3" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Wed</text>
-  <rect x="410.3" y="124.5" width="61.4" height="39.5" rx="5" fill="#58A6FF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="39.5" dur="0.75s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="124.5" dur="0.75s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="410.3" y="128.8" width="61.4" height="35.2" rx="5" fill="#58A6FF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="35.2" dur="0.75s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="128.8" dur="0.75s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="441.0" y="119.5" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.2</text>
+  <text x="441.0" y="123.8" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.2</text>
   <text x="441.0" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Thu</text>
-  <rect x="522.0" y="142.5" width="61.4" height="21.5" rx="5" fill="#58A6FF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="21.5" dur="0.75s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="142.5" dur="0.75s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="522.0" y="137.6" width="61.4" height="26.4" rx="5" fill="#58A6FF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="26.4" dur="0.75s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="137.6" dur="0.75s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="552.7" y="137.5" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.1</text>
+  <text x="552.7" y="132.6" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.1</text>
   <text x="552.7" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Fri</text>
-  <rect x="633.7" y="124.5" width="61.4" height="39.5" rx="5" fill="#BC8CFF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="39.5" dur="0.75s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="124.5" dur="0.75s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="633.7" y="128.8" width="61.4" height="35.2" rx="5" fill="#BC8CFF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="35.2" dur="0.75s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="128.8" dur="0.75s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="664.4" y="119.5" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.2</text>
+  <text x="664.4" y="123.8" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.2</text>
   <text x="664.4" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Sat</text>
   <rect x="745.4" y="69.0" width="61.4" height="95.0" rx="5" fill="#BC8CFF" opacity="0.85">
     <animate attributeName="height" from="0.0" to="95.0" dur="0.75s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
     <animate attributeName="y" from="164.0" to="69.0" dur="0.75s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="776.1" y="64.0" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.5</text>
+  <text x="776.1" y="64.0" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.4</text>
   <text x="776.1" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Sun</text>
   <line x1="50" y1="164" x2="832" y2="164" stroke="#30363D" stroke-opacity="0.5"/>
 
