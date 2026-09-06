@@ -65,11 +65,11 @@
   </rect>
   <text x="664.4" y="123.4" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.2</text>
   <text x="664.4" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Sat</text>
-  <rect x="745.4" y="76.9" width="61.4" height="87.1" rx="5" fill="#BC8CFF" opacity="0.85">
-    <animate attributeName="height" from="0.0" to="87.1" dur="0.75s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
-    <animate attributeName="y" from="164.0" to="76.9" dur="0.75s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  <rect x="745.4" y="78.5" width="61.4" height="85.5" rx="5" fill="#BC8CFF" opacity="0.85">
+    <animate attributeName="height" from="0.0" to="85.5" dur="0.75s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+    <animate attributeName="y" from="164.0" to="78.5" dur="0.75s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
   </rect>
-  <text x="776.1" y="71.9" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.4</text>
+  <text x="776.1" y="73.5" font-size="9.5" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">0.4</text>
   <text x="776.1" y="178" font-size="10" fill="#8B949E" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Sun</text>
   <line x1="50" y1="164" x2="832" y2="164" stroke="#30363D" stroke-opacity="0.5"/>
 
